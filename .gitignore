@@ -133,3 +133,5 @@ dmypy.json
 
 # other
 btre/secrets.py
+/static
+/media
